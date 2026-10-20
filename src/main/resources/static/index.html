@@ -1,0 +1,74 @@
+<!doctype html>
+<!--
+  SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+  Copyright (c) 2026 Muha
+  Commercial use only with prior permission. See LICENSE.md.
+-->
+<html lang="de">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Item-Werte · MinecraftShop</title>
+    <meta name="description" content="Alle Ankaufspreise im Überblick.">
+    <link rel="icon" href="/icons/emerald.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&family=Barlow+Condensed:wght@700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/app.css">
+</head>
+<body>
+<header class="topbar">
+    <div class="topbar__inner">
+        <a class="brand" href="/">
+            <img src="/icons/emerald.png" alt="" class="brand__icon">
+            <span>Minecraft<span class="accent">Shop</span></span>
+        </a>
+        <nav class="nav">
+            <a class="nav__link nav__link--active" href="/">Item-Werte</a>
+        </nav>
+    </div>
+</header>
+
+<main class="page">
+    <section class="hero">
+        <h1 class="hero__title">Item-<span class="accent">Werte</span></h1>
+        <p class="hero__text">
+            Alle Ankaufspreise im Überblick. Sortiere nach Preis oder filtere nach Kategorie
+            und finde schnell, was dein Inventar wert ist.
+        </p>
+        <label class="search">
+            <svg class="search__icon" viewBox="0 0 24 24" aria-hidden="true">
+                <circle cx="11" cy="11" r="7"/>
+                <path d="m20 20-3.5-3.5"/>
+            </svg>
+            <input id="search" type="search" placeholder="Item suchen, z. B. Diamond Block" autocomplete="off">
+        </label>
+    </section>
+
+    <section class="toolbar">
+        <div class="tabs" id="tabs" role="tablist"></div>
+        <select id="sort" class="sort" aria-label="Sortierung">
+            <option value="name,asc">Name A-Z</option>
+            <option value="name,desc">Name Z-A</option>
+            <option value="price,desc">Preis absteigend</option>
+            <option value="price,asc">Preis aufsteigend</option>
+        </select>
+    </section>
+
+    <div class="meta">
+        <span id="count">&nbsp;</span>
+        <span class="meta__sync"><span class="pulse"></span><span id="sync">&nbsp;</span></span>
+    </div>
+
+    <section class="grid" id="grid" aria-live="polite"></section>
+    <p class="empty" id="empty" hidden>Keine Items gefunden.</p>
+    <div id="sentinel" class="sentinel"></div>
+</main>
+
+<footer class="footer">
+    Nicht offiziell mit Mojang oder Microsoft verbunden. Minecraft-Texturen © Mojang Studios.
+</footer>
+
+<script src="/js/app.js"></script>
+</body>
+</html>

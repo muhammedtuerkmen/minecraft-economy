@@ -1,0 +1,25 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+# Copyright (c) 2026 Muha
+# Commercial use only with prior permission. See LICENSE.md.
+
+spring:
+  application:
+    name: minecraftshop
+  # Lokal startet spring-boot-docker-compose die Postgres aus compose.yaml automatisch.
+  # Im Container kommen die Werte aus den Umgebungsvariablen (siehe compose.yaml).
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/minecraftshop}
+    username: ${DB_USER:minecraftshop}
+    password: ${DB_PASSWORD:minecraftshop}
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate # Schema kommt von Flyway, Hibernate prüft nur
+  data:
+    web:
+      pageable:
+        max-page-size: 100
+
+shop:
+  catalog:
+    import-on-startup: true

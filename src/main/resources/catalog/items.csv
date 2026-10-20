@@ -1,0 +1,1384 @@
+minecraft_id,name,category,price
+acacia_boat,Acacia Boat,MISC,1.5
+acacia_button,Acacia Button,MISC,0.1
+acacia_chest_boat,Acacia Boat with Chest,MISC,1.5
+acacia_door,Acacia Door,MISC,0.4
+acacia_fence,Acacia Fence,BLOCKS,0.3
+acacia_fence_gate,Acacia Fence Gate,MISC,0.5
+acacia_hanging_sign,Acacia Hanging Sign,MISC,0.5
+acacia_leaves,Acacia Leaves,BLOCKS,0.05
+acacia_log,Acacia Log,BLOCKS,1
+acacia_planks,Acacia Planks,BLOCKS,0.3
+acacia_pressure_plate,Acacia Pressure Plate,MISC,0.2
+acacia_sapling,Acacia Sapling,MISC,0.5
+acacia_shelf,Acacia Shelf,UTILITIES,1
+acacia_sign,Acacia Sign,MISC,0.5
+acacia_slab,Acacia Slab,BLOCKS,0.15
+acacia_stairs,Acacia Stairs,BLOCKS,0.4
+acacia_trapdoor,Acacia Trapdoor,MISC,0.6
+acacia_wood,Acacia Wood,BLOCKS,1
+activator_rail,Activator Rail,UTILITIES,4
+allium,Allium,BLOCKS,0.3
+amethyst_block,Block of Amethyst,BLOCKS,27
+amethyst_cluster,Amethyst Cluster,BLOCKS,3
+amethyst_shard,Amethyst Shard,INGREDIENTS,3
+ancient_debris,Ancient Debris,BLOCKS,110
+andesite,Andesite,BLOCKS,0.15
+andesite_slab,Andesite Slab,BLOCKS,0.05
+andesite_stairs,Andesite Stairs,BLOCKS,0.15
+andesite_wall,Andesite Wall,BLOCKS,0.15
+angler_pottery_sherd,Angler Pottery Sherd,INGREDIENTS,1.5
+anvil,Anvil,UTILITIES,4
+apple,Apple,FOOD,0.8
+archer_pottery_sherd,Archer Pottery Sherd,INGREDIENTS,1.5
+armadillo_scute,Armadillo Scute,INGREDIENTS,1.5
+armor_stand,Armor Stand,MISC,1
+arms_up_pottery_sherd,Arms Up Pottery Sherd,INGREDIENTS,1.5
+arrow,Arrow,COMBAT,10
+axolotl_bucket,Bucket of Axolotl,TOOLS,16
+azalea,Azalea,BLOCKS,0.3
+azalea_leaves,Azalea Leaves,BLOCKS,0.3
+azure_bluet,Azure Bluet,BLOCKS,0.3
+baked_potato,Baked Potato,FOOD,0.8
+bamboo,Bamboo,BLOCKS,0.5
+bamboo_block,Block of Bamboo,BLOCKS,1
+bamboo_button,Bamboo Button,MISC,0.1
+bamboo_chest_raft,Bamboo Raft with Chest,MISC,1.5
+bamboo_door,Bamboo Door,MISC,0.4
+bamboo_fence,Bamboo Fence,BLOCKS,0.3
+bamboo_fence_gate,Bamboo Fence Gate,MISC,0.5
+bamboo_hanging_sign,Bamboo Hanging Sign,MISC,0.5
+bamboo_mosaic,Bamboo Mosaic,BLOCKS,0.3
+bamboo_mosaic_slab,Bamboo Mosaic Slab,BLOCKS,0.15
+bamboo_mosaic_stairs,Bamboo Mosaic Stairs,BLOCKS,0.4
+bamboo_planks,Bamboo Planks,BLOCKS,0.3
+bamboo_pressure_plate,Bamboo Pressure Plate,MISC,0.2
+bamboo_raft,Bamboo Raft,MISC,1.5
+bamboo_shelf,Bamboo Shelf,UTILITIES,1
+bamboo_sign,Bamboo Sign,MISC,0.5
+bamboo_slab,Bamboo Slab,BLOCKS,0.15
+bamboo_stairs,Bamboo Stairs,BLOCKS,0.4
+bamboo_trapdoor,Bamboo Trapdoor,MISC,0.6
+barrel,Barrel,UTILITIES,4
+basalt,Basalt,BLOCKS,0.2
+beacon,Beacon,UTILITIES,600
+bee_nest,Bee Nest,BLOCKS,8
+beef,Raw Beef,FOOD,0.8
+beehive,Beehive,BLOCKS,6
+beetroot,Beetroot,FOOD,0.8
+beetroot_seeds,Beetroot Seeds,MISC,1
+beetroot_soup,Beetroot Soup,FOOD,1.6
+bell,Bell,UTILITIES,4
+big_dripleaf,Big Dripleaf,BLOCKS,0.3
+birch_boat,Birch Boat,MISC,1.5
+birch_button,Birch Button,MISC,0.1
+birch_chest_boat,Birch Boat with Chest,MISC,1.5
+birch_door,Birch Door,MISC,0.4
+birch_fence,Birch Fence,BLOCKS,0.3
+birch_fence_gate,Birch Fence Gate,MISC,0.5
+birch_hanging_sign,Birch Hanging Sign,MISC,0.5
+birch_leaves,Birch Leaves,BLOCKS,0.05
+birch_log,Birch Log,BLOCKS,1
+birch_planks,Birch Planks,BLOCKS,0.3
+birch_pressure_plate,Birch Pressure Plate,MISC,0.2
+birch_sapling,Birch Sapling,MISC,0.5
+birch_shelf,Birch Shelf,UTILITIES,1
+birch_sign,Birch Sign,MISC,0.5
+birch_slab,Birch Slab,BLOCKS,0.15
+birch_stairs,Birch Stairs,BLOCKS,0.4
+birch_trapdoor,Birch Trapdoor,MISC,0.6
+birch_wood,Birch Wood,BLOCKS,1
+black_banner,Black Banner,MISC,1
+black_bed,Black Bed,UTILITIES,8
+black_bundle,Black Bundle,TOOLS,16
+black_candle,Black Candle,MISC,1
+black_carpet,Black Carpet,BLOCKS,0.3
+black_concrete,Black Concrete,BLOCKS,0.5
+black_concrete_powder,Black Concrete Powder,BLOCKS,0.5
+black_dye,Black Dye,INGREDIENTS,1.5
+black_glazed_terracotta,Black Glazed Terracotta,BLOCKS,0.4
+black_harness,Black Harness,MISC,2
+black_shulker_box,Black Shulker Box,UTILITIES,8
+black_stained_glass,Black Stained Glass,BLOCKS,0.4
+black_stained_glass_pane,Black Stained Glass Pane,BLOCKS,0.4
+black_terracotta,Black Terracotta,BLOCKS,0.4
+black_wool,Black Wool,BLOCKS,0.6
+blackstone,Blackstone,BLOCKS,0.4
+blackstone_slab,Blackstone Slab,BLOCKS,0.2
+blackstone_stairs,Blackstone Stairs,BLOCKS,0.4
+blackstone_wall,Blackstone Wall,BLOCKS,0.4
+blade_pottery_sherd,Blade Pottery Sherd,INGREDIENTS,1.5
+blast_furnace,Blast Furnace,UTILITIES,4
+blaze_powder,Blaze Powder,INGREDIENTS,1.5
+blaze_rod,Blaze Rod,INGREDIENTS,4
+blue_banner,Blue Banner,MISC,1
+blue_bed,Blue Bed,UTILITIES,8
+blue_bundle,Blue Bundle,TOOLS,16
+blue_candle,Blue Candle,MISC,1
+blue_carpet,Blue Carpet,BLOCKS,0.3
+blue_concrete,Blue Concrete,BLOCKS,0.5
+blue_concrete_powder,Blue Concrete Powder,BLOCKS,0.5
+blue_dye,Blue Dye,INGREDIENTS,1.5
+blue_egg,Blue Egg,MISC,1
+blue_glazed_terracotta,Blue Glazed Terracotta,BLOCKS,0.4
+blue_harness,Blue Harness,MISC,2
+blue_ice,Blue Ice,BLOCKS,0.3
+blue_orchid,Blue Orchid,BLOCKS,0.3
+blue_shulker_box,Blue Shulker Box,UTILITIES,8
+blue_stained_glass,Blue Stained Glass,BLOCKS,0.4
+blue_stained_glass_pane,Blue Stained Glass Pane,BLOCKS,0.4
+blue_terracotta,Blue Terracotta,BLOCKS,0.4
+blue_wool,Blue Wool,BLOCKS,0.6
+bolt_armor_trim_smithing_template,Bolt Armor Trim,INGREDIENTS,50
+bone,Bone,INGREDIENTS,1.5
+bone_block,Bone Block,BLOCKS,0.3
+bone_meal,Bone Meal,INGREDIENTS,1.5
+book,Book,BOOKS,4
+bookshelf,Bookshelf,BLOCKS,0.3
+bordure_indented_banner_pattern,Bordure Indented Banner Pattern,MISC,2
+bow,Bow,COMBAT,20
+bowl,Bowl,MISC,1
+brain_coral,Brain Coral,BLOCKS,0.3
+brain_coral_block,Brain Coral Block,BLOCKS,0.3
+brain_coral_fan,Brain Coral Fan,BLOCKS,0.3
+bread,Bread,FOOD,0.8
+breeze_rod,Breeze Rod,INGREDIENTS,6
+brewer_pottery_sherd,Brewer Pottery Sherd,INGREDIENTS,1.5
+brewing_stand,Brewing Stand,UTILITIES,4
+brick,Brick,INGREDIENTS,0.8
+brick_slab,Brick Slab,BLOCKS,0.4
+brick_stairs,Brick Stairs,BLOCKS,0.8
+brick_wall,Brick Wall,BLOCKS,0.8
+bricks,Bricks,BLOCKS,0.8
+brown_banner,Brown Banner,MISC,1
+brown_bed,Brown Bed,UTILITIES,8
+brown_bundle,Brown Bundle,TOOLS,16
+brown_candle,Brown Candle,MISC,1
+brown_carpet,Brown Carpet,BLOCKS,0.3
+brown_concrete,Brown Concrete,BLOCKS,0.5
+brown_concrete_powder,Brown Concrete Powder,BLOCKS,0.5
+brown_dye,Brown Dye,INGREDIENTS,1.5
+brown_egg,Brown Egg,MISC,1
+brown_glazed_terracotta,Brown Glazed Terracotta,BLOCKS,0.4
+brown_harness,Brown Harness,MISC,2
+brown_mushroom,Brown Mushroom,BLOCKS,0.3
+brown_mushroom_block,Brown Mushroom Block,BLOCKS,0.3
+brown_shulker_box,Brown Shulker Box,UTILITIES,8
+brown_stained_glass,Brown Stained Glass,BLOCKS,0.4
+brown_stained_glass_pane,Brown Stained Glass Pane,BLOCKS,0.4
+brown_terracotta,Brown Terracotta,BLOCKS,0.4
+brown_wool,Brown Wool,BLOCKS,0.6
+brush,Brush,TOOLS,16
+bubble_coral,Bubble Coral,BLOCKS,0.3
+bubble_coral_block,Bubble Coral Block,BLOCKS,0.3
+bubble_coral_fan,Bubble Coral Fan,BLOCKS,0.3
+bucket,Bucket,TOOLS,8
+bundle,Bundle,TOOLS,16
+burn_pottery_sherd,Burn Pottery Sherd,INGREDIENTS,1.5
+bush,Bush,BLOCKS,0.3
+cactus,Cactus,BLOCKS,0.3
+cactus_flower,Cactus Flower,BLOCKS,0.3
+cake,Cake,BLOCKS,0.6
+calcite,Calcite,BLOCKS,0.3
+calibrated_sculk_sensor,Calibrated Sculk Sensor,UTILITIES,4
+campfire,Campfire,UTILITIES,4
+candle,Candle,BLOCKS,0.3
+carrot,Carrot,FOOD,0.8
+carrot_on_a_stick,Carrot on a Stick,TOOLS,16
+cartography_table,Cartography Table,UTILITIES,4
+carved_pumpkin,Carved Pumpkin,BLOCKS,0.3
+cauldron,Cauldron,UTILITIES,4
+chainmail_boots,Chainmail Boots,COMBAT,32
+chainmail_chestplate,Chainmail Chestplate,COMBAT,64
+chainmail_helmet,Chainmail Helmet,COMBAT,40
+chainmail_leggings,Chainmail Leggings,COMBAT,56
+charcoal,Charcoal,INGREDIENTS,1.5
+cherry_boat,Cherry Boat,MISC,1.5
+cherry_button,Cherry Button,MISC,0.1
+cherry_chest_boat,Cherry Boat with Chest,MISC,1.5
+cherry_door,Cherry Door,MISC,0.4
+cherry_fence,Cherry Fence,BLOCKS,0.3
+cherry_fence_gate,Cherry Fence Gate,MISC,0.5
+cherry_hanging_sign,Cherry Hanging Sign,MISC,0.5
+cherry_leaves,Cherry Leaves,BLOCKS,0.05
+cherry_log,Cherry Log,BLOCKS,1
+cherry_planks,Cherry Planks,BLOCKS,0.3
+cherry_pressure_plate,Cherry Pressure Plate,MISC,0.2
+cherry_sapling,Cherry Sapling,MISC,0.5
+cherry_shelf,Cherry Shelf,UTILITIES,1
+cherry_sign,Cherry Sign,MISC,0.5
+cherry_slab,Cherry Slab,BLOCKS,0.15
+cherry_stairs,Cherry Stairs,BLOCKS,0.4
+cherry_trapdoor,Cherry Trapdoor,MISC,0.6
+cherry_wood,Cherry Wood,BLOCKS,1
+chest,Chest,UTILITIES,4
+chest_minecart,Minecart with Chest,UTILITIES,8
+chicken,Raw Chicken,FOOD,0.8
+chipped_anvil,Chipped Anvil,UTILITIES,4
+chiseled_bookshelf,Chiseled Bookshelf,UTILITIES,4
+chiseled_copper,Chiseled Copper,BLOCKS,1.5
+chiseled_deepslate,Chiseled Deepslate,BLOCKS,0.3
+chiseled_nether_bricks,Chiseled Nether Bricks,BLOCKS,0.3
+chiseled_polished_blackstone,Chiseled Polished Blackstone,BLOCKS,0.4
+chiseled_quartz_block,Chiseled Quartz Block,BLOCKS,18
+chiseled_red_sandstone,Chiseled Red Sandstone,BLOCKS,0.3
+chiseled_resin_bricks,Chiseled Resin Bricks,BLOCKS,1
+chiseled_sandstone,Chiseled Sandstone,BLOCKS,0.3
+chiseled_stone_bricks,Chiseled Stone Bricks,BLOCKS,0.2
+chiseled_tuff,Chiseled Tuff,BLOCKS,0.25
+chiseled_tuff_bricks,Chiseled Tuff Bricks,BLOCKS,0.25
+chorus_flower,Chorus Flower,BLOCKS,0.3
+chorus_fruit,Chorus Fruit,FOOD,0.8
+chorus_plant,Chorus Plant,BLOCKS,0.3
+clay,Clay,BLOCKS,0.3
+clay_ball,Clay Ball,INGREDIENTS,1.5
+clock,Clock,TOOLS,8
+closed_eyeblossom,Closed Eyeblossom,BLOCKS,0.3
+coal,Coal,INGREDIENTS,0.5
+coal_block,Block of Coal,BLOCKS,4.5
+coal_ore,Coal Ore,BLOCKS,0.5
+coarse_dirt,Coarse Dirt,BLOCKS,0.3
+coast_armor_trim_smithing_template,Coast Armor Trim,INGREDIENTS,50
+cobbled_deepslate,Cobbled Deepslate,BLOCKS,0.3
+cobbled_deepslate_slab,Cobbled Deepslate Slab,BLOCKS,0.15
+cobbled_deepslate_stairs,Cobbled Deepslate Stairs,BLOCKS,0.3
+cobbled_deepslate_wall,Cobbled Deepslate Wall,BLOCKS,0.3
+cobblestone,Cobblestone,BLOCKS,0.1
+cobblestone_slab,Cobblestone Slab,BLOCKS,0.05
+cobblestone_stairs,Cobblestone Stairs,BLOCKS,0.1
+cobblestone_wall,Cobblestone Wall,BLOCKS,0.1
+cobweb,Cobweb,BLOCKS,0.3
+cocoa_beans,Cocoa Beans,MISC,1
+cod,Raw Cod,FOOD,0.8
+cod_bucket,Bucket of Cod,TOOLS,16
+comparator,Redstone Comparator,UTILITIES,4
+compass,Compass,TOOLS,8
+composter,Composter,UTILITIES,4
+conduit,Conduit,UTILITIES,150
+cooked_beef,Steak,FOOD,0.8
+cooked_chicken,Cooked Chicken,FOOD,0.8
+cooked_cod,Cooked Cod,FOOD,0.8
+cooked_mutton,Cooked Mutton,FOOD,0.8
+cooked_porkchop,Cooked Porkchop,FOOD,0.8
+cooked_rabbit,Cooked Rabbit,FOOD,0.8
+cooked_salmon,Cooked Salmon,FOOD,0.8
+cookie,Cookie,FOOD,0.8
+copper_axe,Copper Axe,TOOLS,4.5
+copper_bars,Copper Bars,BLOCKS,0.6
+copper_block,Block of Copper,BLOCKS,14
+copper_boots,Copper Boots,COMBAT,6
+copper_bulb,Copper Bulb,UTILITIES,1.5
+copper_chain,Copper Chain,BLOCKS,1.5
+copper_chest,Copper Chest,BLOCKS,1.5
+copper_chestplate,Copper Chestplate,COMBAT,12
+copper_door,Copper Door,MISC,3
+copper_golem_statue,Copper Golem Statue,MISC,1.5
+copper_grate,Copper Grate,BLOCKS,1.5
+copper_helmet,Copper Helmet,COMBAT,7.5
+copper_hoe,Copper Hoe,TOOLS,3
+copper_horse_armor,Copper Horse Armor,COMBAT,10
+copper_ingot,Copper Ingot,INGREDIENTS,1.5
+copper_lantern,Copper Lantern,UTILITIES,1.5
+copper_leggings,Copper Leggings,COMBAT,10
+copper_nautilus_armor,Copper Nautilus Armor,COMBAT,10
+copper_nugget,Copper Nugget,INGREDIENTS,0.15
+copper_ore,Copper Ore,BLOCKS,1.5
+copper_pickaxe,Copper Pickaxe,TOOLS,4.5
+copper_shovel,Copper Shovel,TOOLS,1.5
+copper_spear,Copper Spear,COMBAT,3
+copper_sword,Copper Sword,COMBAT,3
+copper_torch,Copper Torch,UTILITIES,1.5
+copper_trapdoor,Copper Trapdoor,MISC,4.5
+cornflower,Cornflower,BLOCKS,0.3
+cracked_deepslate_bricks,Cracked Deepslate Bricks,BLOCKS,0.3
+cracked_deepslate_tiles,Cracked Deepslate Tiles,BLOCKS,0.3
+cracked_nether_bricks,Cracked Nether Bricks,BLOCKS,0.3
+cracked_polished_blackstone_bricks,Cracked Polished Blackstone Bricks,BLOCKS,0.4
+cracked_stone_bricks,Cracked Stone Bricks,BLOCKS,0.2
+crafter,Crafter,UTILITIES,4
+crafting_table,Crafting Table,UTILITIES,4
+creaking_heart,Creaking Heart,BLOCKS,0.3
+creeper_banner_pattern,Creeper Charge Banner Pattern,MISC,2
+creeper_head,Creeper Head,MISC,1
+crimson_button,Crimson Button,MISC,0.2
+crimson_door,Crimson Door,MISC,0.8
+crimson_fence,Crimson Fence,BLOCKS,0.6
+crimson_fence_gate,Crimson Fence Gate,MISC,1
+crimson_fungus,Crimson Fungus,BLOCKS,1
+crimson_hanging_sign,Crimson Hanging Sign,MISC,1
+crimson_hyphae,Crimson Hyphae,BLOCKS,2
+crimson_nylium,Crimson Nylium,BLOCKS,1
+crimson_planks,Crimson Planks,BLOCKS,0.6
+crimson_pressure_plate,Crimson Pressure Plate,MISC,0.4
+crimson_roots,Crimson Roots,BLOCKS,1
+crimson_shelf,Crimson Shelf,UTILITIES,2
+crimson_sign,Crimson Sign,MISC,1
+crimson_slab,Crimson Slab,BLOCKS,0.3
+crimson_stairs,Crimson Stairs,BLOCKS,0.8
+crimson_stem,Crimson Stem,BLOCKS,2
+crimson_trapdoor,Crimson Trapdoor,MISC,1.2
+crossbow,Crossbow,COMBAT,20
+crying_obsidian,Crying Obsidian,BLOCKS,5
+cut_copper,Cut Copper,BLOCKS,1.5
+cut_copper_slab,Cut Copper Slab,BLOCKS,0.75
+cut_copper_stairs,Cut Copper Stairs,BLOCKS,1.5
+cut_red_sandstone,Cut Red Sandstone,BLOCKS,0.3
+cut_red_sandstone_slab,Cut Red Sandstone Slab,BLOCKS,0.15
+cut_sandstone,Cut Sandstone,BLOCKS,0.3
+cut_sandstone_slab,Cut Sandstone Slab,BLOCKS,0.15
+cyan_banner,Cyan Banner,MISC,1
+cyan_bed,Cyan Bed,UTILITIES,8
+cyan_bundle,Cyan Bundle,TOOLS,16
+cyan_candle,Cyan Candle,MISC,1
+cyan_carpet,Cyan Carpet,BLOCKS,0.3
+cyan_concrete,Cyan Concrete,BLOCKS,0.5
+cyan_concrete_powder,Cyan Concrete Powder,BLOCKS,0.5
+cyan_dye,Cyan Dye,INGREDIENTS,1.5
+cyan_glazed_terracotta,Cyan Glazed Terracotta,BLOCKS,0.4
+cyan_harness,Cyan Harness,MISC,2
+cyan_shulker_box,Cyan Shulker Box,UTILITIES,8
+cyan_stained_glass,Cyan Stained Glass,BLOCKS,0.4
+cyan_stained_glass_pane,Cyan Stained Glass Pane,BLOCKS,0.4
+cyan_terracotta,Cyan Terracotta,BLOCKS,0.4
+cyan_wool,Cyan Wool,BLOCKS,0.6
+damaged_anvil,Damaged Anvil,UTILITIES,4
+dandelion,Dandelion,BLOCKS,0.3
+danger_pottery_sherd,Danger Pottery Sherd,INGREDIENTS,1.5
+dark_oak_boat,Dark Oak Boat,MISC,1.5
+dark_oak_button,Dark Oak Button,MISC,0.1
+dark_oak_chest_boat,Dark Oak Boat with Chest,MISC,1.5
+dark_oak_door,Dark Oak Door,MISC,0.4
+dark_oak_fence,Dark Oak Fence,BLOCKS,0.3
+dark_oak_fence_gate,Dark Oak Fence Gate,MISC,0.5
+dark_oak_hanging_sign,Dark Oak Hanging Sign,MISC,0.5
+dark_oak_leaves,Dark Oak Leaves,BLOCKS,0.05
+dark_oak_log,Dark Oak Log,BLOCKS,1
+dark_oak_planks,Dark Oak Planks,BLOCKS,0.3
+dark_oak_pressure_plate,Dark Oak Pressure Plate,MISC,0.2
+dark_oak_sapling,Dark Oak Sapling,MISC,0.5
+dark_oak_shelf,Dark Oak Shelf,UTILITIES,1
+dark_oak_sign,Dark Oak Sign,MISC,0.5
+dark_oak_slab,Dark Oak Slab,BLOCKS,0.15
+dark_oak_stairs,Dark Oak Stairs,BLOCKS,0.4
+dark_oak_trapdoor,Dark Oak Trapdoor,MISC,0.6
+dark_oak_wood,Dark Oak Wood,BLOCKS,1
+dark_prismarine,Dark Prismarine,BLOCKS,0.5
+dark_prismarine_slab,Dark Prismarine Slab,BLOCKS,0.15
+dark_prismarine_stairs,Dark Prismarine Stairs,BLOCKS,0.4
+daylight_detector,Daylight Detector,UTILITIES,4
+dead_brain_coral,Dead Brain Coral,BLOCKS,0.3
+dead_brain_coral_block,Dead Brain Coral Block,BLOCKS,0.3
+dead_brain_coral_fan,Dead Brain Coral Fan,BLOCKS,0.3
+dead_bubble_coral,Dead Bubble Coral,BLOCKS,0.3
+dead_bubble_coral_block,Dead Bubble Coral Block,BLOCKS,0.3
+dead_bubble_coral_fan,Dead Bubble Coral Fan,BLOCKS,0.3
+dead_bush,Dead Bush,BLOCKS,0.3
+dead_fire_coral,Dead Fire Coral,BLOCKS,0.3
+dead_fire_coral_block,Dead Fire Coral Block,BLOCKS,0.3
+dead_fire_coral_fan,Dead Fire Coral Fan,BLOCKS,0.3
+dead_horn_coral,Dead Horn Coral,BLOCKS,0.3
+dead_horn_coral_block,Dead Horn Coral Block,BLOCKS,0.3
+dead_horn_coral_fan,Dead Horn Coral Fan,BLOCKS,0.3
+dead_tube_coral,Dead Tube Coral,BLOCKS,0.3
+dead_tube_coral_block,Dead Tube Coral Block,BLOCKS,0.3
+dead_tube_coral_fan,Dead Tube Coral Fan,BLOCKS,0.3
+decorated_pot,Decorated Pot,UTILITIES,4
+deepslate,Deepslate,BLOCKS,0.3
+deepslate_brick_slab,Deepslate Brick Slab,BLOCKS,0.15
+deepslate_brick_stairs,Deepslate Brick Stairs,BLOCKS,0.3
+deepslate_brick_wall,Deepslate Brick Wall,BLOCKS,0.3
+deepslate_bricks,Deepslate Bricks,BLOCKS,0.3
+deepslate_coal_ore,Deepslate Coal Ore,BLOCKS,0.3
+deepslate_copper_ore,Deepslate Copper Ore,BLOCKS,0.3
+deepslate_diamond_ore,Deepslate Diamond Ore,BLOCKS,0.3
+deepslate_emerald_ore,Deepslate Emerald Ore,BLOCKS,0.3
+deepslate_gold_ore,Deepslate Gold Ore,BLOCKS,0.3
+deepslate_iron_ore,Deepslate Iron Ore,BLOCKS,0.3
+deepslate_lapis_ore,Deepslate Lapis Lazuli Ore,BLOCKS,0.3
+deepslate_redstone_ore,Deepslate Redstone Ore,BLOCKS,0.3
+deepslate_tile_slab,Deepslate Tile Slab,BLOCKS,0.15
+deepslate_tile_stairs,Deepslate Tile Stairs,BLOCKS,0.3
+deepslate_tile_wall,Deepslate Tile Wall,BLOCKS,0.3
+deepslate_tiles,Deepslate Tiles,BLOCKS,0.3
+detector_rail,Detector Rail,UTILITIES,4
+diamond,Diamond,INGREDIENTS,60
+diamond_axe,Diamond Axe,TOOLS,180
+diamond_block,Block of Diamond,BLOCKS,540
+diamond_boots,Diamond Boots,COMBAT,240
+diamond_chestplate,Diamond Chestplate,COMBAT,480
+diamond_helmet,Diamond Helmet,COMBAT,300
+diamond_hoe,Diamond Hoe,TOOLS,120
+diamond_horse_armor,Diamond Horse Armor,COMBAT,420
+diamond_leggings,Diamond Leggings,COMBAT,420
+diamond_nautilus_armor,Diamond Nautilus Armor,COMBAT,420
+diamond_ore,Diamond Ore,BLOCKS,60
+diamond_pickaxe,Diamond Pickaxe,TOOLS,180
+diamond_shovel,Diamond Shovel,TOOLS,60
+diamond_spear,Diamond Spear,COMBAT,120
+diamond_sword,Diamond Sword,COMBAT,120
+diorite,Diorite,BLOCKS,0.15
+diorite_slab,Diorite Slab,BLOCKS,0.05
+diorite_stairs,Diorite Stairs,BLOCKS,0.15
+diorite_wall,Diorite Wall,BLOCKS,0.15
+dirt,Dirt,BLOCKS,0.3
+disc_fragment_5,Disc Fragment,MISC,1
+dispenser,Dispenser,UTILITIES,4
+dragon_breath,Dragon's Breath,INGREDIENTS,20
+dragon_head,Dragon Head,MISC,1
+dried_ghast,Dried Ghast,BLOCKS,0.3
+dried_kelp,Dried Kelp,FOOD,0.8
+dried_kelp_block,Dried Kelp Block,BLOCKS,0.3
+dripstone_block,Dripstone Block,BLOCKS,2.7
+dropper,Dropper,UTILITIES,4
+dune_armor_trim_smithing_template,Dune Armor Trim,INGREDIENTS,50
+echo_shard,Echo Shard,INGREDIENTS,25
+egg,Egg,MISC,1
+elytra,Elytra,TOOLS,1000
+emerald,Emerald,INGREDIENTS,40
+emerald_block,Block of Emerald,BLOCKS,360
+emerald_ore,Emerald Ore,BLOCKS,40
+enchanted_book,Enchanted Book,BOOKS,50
+enchanted_golden_apple,Enchanted Golden Apple,FOOD,800
+enchanting_table,Enchanting Table,UTILITIES,4
+end_crystal,End Crystal,COMBAT,60
+end_rod,End Rod,BLOCKS,1
+end_stone,End Stone,BLOCKS,1
+end_stone_brick_slab,End Stone Brick Slab,BLOCKS,0.5
+end_stone_brick_stairs,End Stone Brick Stairs,BLOCKS,1
+end_stone_brick_wall,End Stone Brick Wall,BLOCKS,1
+end_stone_bricks,End Stone Bricks,BLOCKS,1
+ender_chest,Ender Chest,UTILITIES,4
+ender_eye,Eye of Ender,INGREDIENTS,6
+ender_pearl,Ender Pearl,INGREDIENTS,4
+experience_bottle,Bottle o' Enchanting,POTIONS,5
+explorer_pottery_sherd,Explorer Pottery Sherd,INGREDIENTS,1.5
+exposed_chiseled_copper,Exposed Chiseled Copper,BLOCKS,1.5
+exposed_copper,Exposed Copper,BLOCKS,1.5
+exposed_copper_bars,Exposed Copper Bars,BLOCKS,0.6
+exposed_copper_bulb,Exposed Copper Bulb,UTILITIES,1.5
+exposed_copper_chain,Exposed Copper Chain,BLOCKS,1.5
+exposed_copper_chest,Exposed Copper Chest,BLOCKS,1.5
+exposed_copper_door,Exposed Copper Door,MISC,3
+exposed_copper_golem_statue,Exposed Copper Golem Statue,MISC,1.5
+exposed_copper_grate,Exposed Copper Grate,BLOCKS,1.5
+exposed_copper_lantern,Exposed Copper Lantern,BLOCKS,1.5
+exposed_copper_trapdoor,Exposed Copper Trapdoor,MISC,4.5
+exposed_cut_copper,Exposed Cut Copper,BLOCKS,1.5
+exposed_cut_copper_slab,Exposed Cut Copper Slab,BLOCKS,0.75
+exposed_cut_copper_stairs,Exposed Cut Copper Stairs,BLOCKS,1.5
+exposed_lightning_rod,Exposed Lightning Rod,BLOCKS,0.3
+eye_armor_trim_smithing_template,Eye Armor Trim,INGREDIENTS,50
+feather,Feather,INGREDIENTS,1.5
+fermented_spider_eye,Fermented Spider Eye,INGREDIENTS,1.5
+fern,Fern,BLOCKS,0.3
+field_masoned_banner_pattern,Field Masoned Banner Pattern,MISC,2
+fire_charge,Fire Charge,TOOLS,8
+fire_coral,Fire Coral,BLOCKS,0.3
+fire_coral_block,Fire Coral Block,BLOCKS,0.3
+fire_coral_fan,Fire Coral Fan,BLOCKS,0.3
+firefly_bush,Firefly Bush,BLOCKS,0.3
+firework_rocket,Firework Rocket,MISC,1
+firework_star,Firework Star,MISC,1
+fishing_rod,Fishing Rod,TOOLS,16
+fletching_table,Fletching Table,UTILITIES,4
+flint,Flint,INGREDIENTS,1.5
+flint_and_steel,Flint and Steel,TOOLS,16
+flow_armor_trim_smithing_template,Flow Armor Trim,INGREDIENTS,50
+flow_banner_pattern,Flow Banner Pattern,MISC,2
+flow_pottery_sherd,Flow Pottery Sherd,INGREDIENTS,1.5
+flower_banner_pattern,Flower Charge Banner Pattern,MISC,2
+flower_pot,Flower Pot,BLOCKS,0.3
+flowering_azalea,Flowering Azalea,BLOCKS,0.3
+flowering_azalea_leaves,Flowering Azalea Leaves,BLOCKS,0.3
+friend_pottery_sherd,Friend Pottery Sherd,INGREDIENTS,1.5
+furnace,Furnace,UTILITIES,4
+furnace_minecart,Minecart with Furnace,UTILITIES,8
+ghast_tear,Ghast Tear,INGREDIENTS,1.5
+gilded_blackstone,Gilded Blackstone,BLOCKS,0.4
+glass,Glass,BLOCKS,0.4
+glass_bottle,Glass Bottle,MISC,0.4
+glass_pane,Glass Pane,BLOCKS,0.4
+glistering_melon_slice,Glistering Melon Slice,INGREDIENTS,1.5
+globe_banner_pattern,Globe Banner Pattern,MISC,2
+glow_berries,Glow Berries,FOOD,0.8
+glow_ink_sac,Glow Ink Sac,INGREDIENTS,1.5
+glow_item_frame,Glow Item Frame,MISC,1
+glow_lichen,Glow Lichen,BLOCKS,0.3
+glowstone,Glowstone,BLOCKS,0.3
+glowstone_dust,Glowstone Dust,INGREDIENTS,1.5
+goat_horn,Goat Horn,MISC,2
+gold_block,Block of Gold,BLOCKS,110
+gold_ingot,Gold Ingot,INGREDIENTS,12
+gold_nugget,Gold Nugget,INGREDIENTS,1.3
+gold_ore,Gold Ore,BLOCKS,12
+golden_apple,Golden Apple,FOOD,40
+golden_axe,Golden Axe,TOOLS,36
+golden_boots,Golden Boots,COMBAT,48
+golden_carrot,Golden Carrot,FOOD,12
+golden_chestplate,Golden Chestplate,COMBAT,96
+golden_dandelion,Golden Dandelion,BLOCKS,12
+golden_helmet,Golden Helmet,COMBAT,60
+golden_hoe,Golden Hoe,TOOLS,24
+golden_horse_armor,Golden Horse Armor,COMBAT,84
+golden_leggings,Golden Leggings,COMBAT,84
+golden_nautilus_armor,Golden Nautilus Armor,COMBAT,84
+golden_pickaxe,Golden Pickaxe,TOOLS,36
+golden_shovel,Golden Shovel,TOOLS,12
+golden_spear,Golden Spear,COMBAT,24
+golden_sword,Golden Sword,COMBAT,24
+granite,Granite,BLOCKS,0.15
+granite_slab,Granite Slab,BLOCKS,0.05
+granite_stairs,Granite Stairs,BLOCKS,0.15
+granite_wall,Granite Wall,BLOCKS,0.15
+grass_block,Grass Block,BLOCKS,0.3
+gravel,Gravel,BLOCKS,0.3
+gray_banner,Gray Banner,MISC,1
+gray_bed,Gray Bed,UTILITIES,8
+gray_bundle,Gray Bundle,TOOLS,16
+gray_candle,Gray Candle,MISC,1
+gray_carpet,Gray Carpet,BLOCKS,0.3
+gray_concrete,Gray Concrete,BLOCKS,0.5
+gray_concrete_powder,Gray Concrete Powder,BLOCKS,0.5
+gray_dye,Gray Dye,INGREDIENTS,1.5
+gray_glazed_terracotta,Gray Glazed Terracotta,BLOCKS,0.4
+gray_harness,Gray Harness,MISC,2
+gray_shulker_box,Gray Shulker Box,UTILITIES,8
+gray_stained_glass,Gray Stained Glass,BLOCKS,0.4
+gray_stained_glass_pane,Gray Stained Glass Pane,BLOCKS,0.4
+gray_terracotta,Gray Terracotta,BLOCKS,0.4
+gray_wool,Gray Wool,BLOCKS,0.6
+green_banner,Green Banner,MISC,1
+green_bed,Green Bed,UTILITIES,8
+green_bundle,Green Bundle,TOOLS,16
+green_candle,Green Candle,MISC,1
+green_carpet,Green Carpet,BLOCKS,0.3
+green_concrete,Green Concrete,BLOCKS,0.5
+green_concrete_powder,Green Concrete Powder,BLOCKS,0.5
+green_dye,Green Dye,INGREDIENTS,1.5
+green_glazed_terracotta,Green Glazed Terracotta,BLOCKS,0.4
+green_harness,Green Harness,MISC,2
+green_shulker_box,Green Shulker Box,UTILITIES,8
+green_stained_glass,Green Stained Glass,BLOCKS,0.4
+green_stained_glass_pane,Green Stained Glass Pane,BLOCKS,0.4
+green_terracotta,Green Terracotta,BLOCKS,0.4
+green_wool,Green Wool,BLOCKS,0.6
+grindstone,Grindstone,UTILITIES,4
+gunpowder,Gunpowder,INGREDIENTS,1.5
+guster_banner_pattern,Guster Banner Pattern,MISC,2
+guster_pottery_sherd,Guster Pottery Sherd,INGREDIENTS,1.5
+hanging_roots,Hanging Roots,BLOCKS,0.3
+hay_block,Hay Bale,BLOCKS,0.3
+heart_of_the_sea,Heart of the Sea,INGREDIENTS,200
+heart_pottery_sherd,Heart Pottery Sherd,INGREDIENTS,1.5
+heartbreak_pottery_sherd,Heartbreak Pottery Sherd,INGREDIENTS,1.5
+heavy_core,Heavy Core,BLOCKS,300
+heavy_weighted_pressure_plate,Heavy Weighted Pressure Plate,MISC,1
+honey_block,Honey Block,BLOCKS,0.3
+honey_bottle,Honey Bottle,FOOD,0.8
+honeycomb,Honeycomb,INGREDIENTS,1.5
+honeycomb_block,Honeycomb Block,BLOCKS,0.3
+hopper,Hopper,UTILITIES,4
+hopper_minecart,Minecart with Hopper,UTILITIES,8
+horn_coral,Horn Coral,BLOCKS,0.3
+horn_coral_block,Horn Coral Block,BLOCKS,0.3
+horn_coral_fan,Horn Coral Fan,BLOCKS,0.3
+host_armor_trim_smithing_template,Host Armor Trim,INGREDIENTS,50
+howl_pottery_sherd,Howl Pottery Sherd,INGREDIENTS,1.5
+ice,Ice,BLOCKS,0.3
+ink_sac,Ink Sac,INGREDIENTS,1.5
+iron_axe,Iron Axe,TOOLS,18
+iron_bars,Iron Bars,BLOCKS,2.4
+iron_block,Block of Iron,BLOCKS,54
+iron_boots,Iron Boots,COMBAT,24
+iron_chain,Iron Chain,BLOCKS,6
+iron_chestplate,Iron Chestplate,COMBAT,48
+iron_door,Iron Door,MISC,12
+iron_helmet,Iron Helmet,COMBAT,30
+iron_hoe,Iron Hoe,TOOLS,12
+iron_horse_armor,Iron Horse Armor,COMBAT,42
+iron_ingot,Iron Ingot,INGREDIENTS,6
+iron_leggings,Iron Leggings,COMBAT,42
+iron_nautilus_armor,Iron Nautilus Armor,COMBAT,42
+iron_nugget,Iron Nugget,INGREDIENTS,0.65
+iron_ore,Iron Ore,BLOCKS,6
+iron_pickaxe,Iron Pickaxe,TOOLS,18
+iron_shovel,Iron Shovel,TOOLS,6
+iron_spear,Iron Spear,COMBAT,12
+iron_sword,Iron Sword,COMBAT,12
+iron_trapdoor,Iron Trapdoor,MISC,18
+item_frame,Item Frame,MISC,1
+jack_o_lantern,Jack o'Lantern,BLOCKS,0.3
+jukebox,Jukebox,UTILITIES,4
+jungle_boat,Jungle Boat,MISC,1.5
+jungle_button,Jungle Button,MISC,0.1
+jungle_chest_boat,Jungle Boat with Chest,MISC,1.5
+jungle_door,Jungle Door,MISC,0.4
+jungle_fence,Jungle Fence,BLOCKS,0.3
+jungle_fence_gate,Jungle Fence Gate,MISC,0.5
+jungle_hanging_sign,Jungle Hanging Sign,MISC,0.5
+jungle_leaves,Jungle Leaves,BLOCKS,0.05
+jungle_log,Jungle Log,BLOCKS,1
+jungle_planks,Jungle Planks,BLOCKS,0.3
+jungle_pressure_plate,Jungle Pressure Plate,MISC,0.2
+jungle_sapling,Jungle Sapling,MISC,0.5
+jungle_shelf,Jungle Shelf,UTILITIES,1
+jungle_sign,Jungle Sign,MISC,0.5
+jungle_slab,Jungle Slab,BLOCKS,0.15
+jungle_stairs,Jungle Stairs,BLOCKS,0.4
+jungle_trapdoor,Jungle Trapdoor,MISC,0.6
+jungle_wood,Jungle Wood,BLOCKS,1
+kelp,Kelp,BLOCKS,0.3
+ladder,Ladder,UTILITIES,4
+lantern,Lantern,UTILITIES,4
+lapis_block,Block of Lapis Lazuli,BLOCKS,27
+lapis_lazuli,Lapis Lazuli,INGREDIENTS,3
+lapis_ore,Lapis Lazuli Ore,BLOCKS,3
+large_amethyst_bud,Large Amethyst Bud,BLOCKS,3
+large_fern,Large Fern,BLOCKS,0.3
+lava_bucket,Lava Bucket,TOOLS,16
+lead,Lead,TOOLS,8
+leaf_litter,Leaf Litter,BLOCKS,0.3
+leather,Leather,INGREDIENTS,2
+leather_boots,Leather Boots,COMBAT,8
+leather_chestplate,Leather Tunic,COMBAT,16
+leather_helmet,Leather Cap,COMBAT,10
+leather_horse_armor,Leather Horse Armor,COMBAT,14
+leather_leggings,Leather Pants,COMBAT,14
+lectern,Lectern,UTILITIES,4
+lever,Lever,UTILITIES,4
+light_blue_banner,Light Blue Banner,MISC,1
+light_blue_bed,Light Blue Bed,UTILITIES,8
+light_blue_bundle,Light Blue Bundle,TOOLS,16
+light_blue_candle,Light Blue Candle,MISC,1
+light_blue_carpet,Light Blue Carpet,BLOCKS,0.3
+light_blue_concrete,Light Blue Concrete,BLOCKS,0.5
+light_blue_concrete_powder,Light Blue Concrete Powder,BLOCKS,0.5
+light_blue_dye,Light Blue Dye,INGREDIENTS,1.5
+light_blue_glazed_terracotta,Light Blue Glazed Terracotta,BLOCKS,0.4
+light_blue_harness,Light Blue Harness,MISC,2
+light_blue_shulker_box,Light Blue Shulker Box,UTILITIES,8
+light_blue_stained_glass,Light Blue Stained Glass,BLOCKS,0.4
+light_blue_stained_glass_pane,Light Blue Stained Glass Pane,BLOCKS,0.4
+light_blue_terracotta,Light Blue Terracotta,BLOCKS,0.4
+light_blue_wool,Light Blue Wool,BLOCKS,0.6
+light_gray_banner,Light Gray Banner,MISC,1
+light_gray_bed,Light Gray Bed,UTILITIES,8
+light_gray_bundle,Light Gray Bundle,TOOLS,16
+light_gray_candle,Light Gray Candle,MISC,1
+light_gray_carpet,Light Gray Carpet,BLOCKS,0.3
+light_gray_concrete,Light Gray Concrete,BLOCKS,0.5
+light_gray_concrete_powder,Light Gray Concrete Powder,BLOCKS,0.5
+light_gray_dye,Light Gray Dye,INGREDIENTS,1.5
+light_gray_glazed_terracotta,Light Gray Glazed Terracotta,BLOCKS,0.4
+light_gray_harness,Light Gray Harness,MISC,2
+light_gray_shulker_box,Light Gray Shulker Box,UTILITIES,8
+light_gray_stained_glass,Light Gray Stained Glass,BLOCKS,0.4
+light_gray_stained_glass_pane,Light Gray Stained Glass Pane,BLOCKS,0.4
+light_gray_terracotta,Light Gray Terracotta,BLOCKS,0.4
+light_gray_wool,Light Gray Wool,BLOCKS,0.6
+light_weighted_pressure_plate,Light Weighted Pressure Plate,MISC,1
+lightning_rod,Lightning Rod,UTILITIES,4
+lilac,Lilac,BLOCKS,0.3
+lily_of_the_valley,Lily of the Valley,BLOCKS,0.3
+lily_pad,Lily Pad,BLOCKS,0.3
+lime_banner,Lime Banner,MISC,1
+lime_bed,Lime Bed,UTILITIES,8
+lime_bundle,Lime Bundle,TOOLS,16
+lime_candle,Lime Candle,MISC,1
+lime_carpet,Lime Carpet,BLOCKS,0.3
+lime_concrete,Lime Concrete,BLOCKS,0.5
+lime_concrete_powder,Lime Concrete Powder,BLOCKS,0.5
+lime_dye,Lime Dye,INGREDIENTS,1.5
+lime_glazed_terracotta,Lime Glazed Terracotta,BLOCKS,0.4
+lime_harness,Lime Harness,MISC,2
+lime_shulker_box,Lime Shulker Box,UTILITIES,8
+lime_stained_glass,Lime Stained Glass,BLOCKS,0.4
+lime_stained_glass_pane,Lime Stained Glass Pane,BLOCKS,0.4
+lime_terracotta,Lime Terracotta,BLOCKS,0.4
+lime_wool,Lime Wool,BLOCKS,0.6
+lingering_potion,Lingering Potion,POTIONS,12
+lodestone,Lodestone,UTILITIES,4
+loom,Loom,UTILITIES,4
+mace,Mace,COMBAT,400
+magenta_banner,Magenta Banner,MISC,1
+magenta_bed,Magenta Bed,UTILITIES,8
+magenta_bundle,Magenta Bundle,TOOLS,16
+magenta_candle,Magenta Candle,MISC,1
+magenta_carpet,Magenta Carpet,BLOCKS,0.3
+magenta_concrete,Magenta Concrete,BLOCKS,0.5
+magenta_concrete_powder,Magenta Concrete Powder,BLOCKS,0.5
+magenta_dye,Magenta Dye,INGREDIENTS,1.5
+magenta_glazed_terracotta,Magenta Glazed Terracotta,BLOCKS,0.4
+magenta_harness,Magenta Harness,MISC,2
+magenta_shulker_box,Magenta Shulker Box,UTILITIES,8
+magenta_stained_glass,Magenta Stained Glass,BLOCKS,0.4
+magenta_stained_glass_pane,Magenta Stained Glass Pane,BLOCKS,0.4
+magenta_terracotta,Magenta Terracotta,BLOCKS,0.4
+magenta_wool,Magenta Wool,BLOCKS,0.6
+magma_block,Magma Block,BLOCKS,0.3
+magma_cream,Magma Cream,INGREDIENTS,1.5
+mangrove_boat,Mangrove Boat,MISC,1.5
+mangrove_button,Mangrove Button,MISC,0.1
+mangrove_chest_boat,Mangrove Boat with Chest,MISC,1.5
+mangrove_door,Mangrove Door,MISC,0.4
+mangrove_fence,Mangrove Fence,BLOCKS,0.3
+mangrove_fence_gate,Mangrove Fence Gate,MISC,0.5
+mangrove_hanging_sign,Mangrove Hanging Sign,MISC,0.5
+mangrove_leaves,Mangrove Leaves,BLOCKS,0.05
+mangrove_log,Mangrove Log,BLOCKS,1
+mangrove_planks,Mangrove Planks,BLOCKS,0.3
+mangrove_pressure_plate,Mangrove Pressure Plate,MISC,0.2
+mangrove_propagule,Mangrove Propagule,BLOCKS,0.5
+mangrove_roots,Mangrove Roots,BLOCKS,0.5
+mangrove_shelf,Mangrove Shelf,UTILITIES,1
+mangrove_sign,Mangrove Sign,MISC,0.5
+mangrove_slab,Mangrove Slab,BLOCKS,0.15
+mangrove_stairs,Mangrove Stairs,BLOCKS,0.4
+mangrove_trapdoor,Mangrove Trapdoor,MISC,0.6
+mangrove_wood,Mangrove Wood,BLOCKS,1
+map,Empty Map,TOOLS,8
+medium_amethyst_bud,Medium Amethyst Bud,BLOCKS,3
+melon,Melon,BLOCKS,0.3
+melon_seeds,Melon Seeds,MISC,1
+melon_slice,Melon Slice,FOOD,0.8
+milk_bucket,Milk Bucket,TOOLS,16
+minecart,Minecart,UTILITIES,8
+miner_pottery_sherd,Miner Pottery Sherd,INGREDIENTS,1.5
+mojang_banner_pattern,Thing Banner Pattern,MISC,2
+moss_block,Moss Block,BLOCKS,0.3
+moss_carpet,Moss Carpet,BLOCKS,0.3
+mossy_cobblestone,Mossy Cobblestone,BLOCKS,0.1
+mossy_cobblestone_slab,Mossy Cobblestone Slab,BLOCKS,0.05
+mossy_cobblestone_stairs,Mossy Cobblestone Stairs,BLOCKS,0.1
+mossy_cobblestone_wall,Mossy Cobblestone Wall,BLOCKS,0.1
+mossy_stone_brick_slab,Mossy Stone Brick Slab,BLOCKS,0.1
+mossy_stone_brick_stairs,Mossy Stone Brick Stairs,BLOCKS,0.2
+mossy_stone_brick_wall,Mossy Stone Brick Wall,BLOCKS,0.2
+mossy_stone_bricks,Mossy Stone Bricks,BLOCKS,0.2
+mourner_pottery_sherd,Mourner Pottery Sherd,INGREDIENTS,1.5
+mud,Mud,BLOCKS,0.2
+mud_brick_slab,Mud Brick Slab,BLOCKS,0.1
+mud_brick_stairs,Mud Brick Stairs,BLOCKS,0.2
+mud_brick_wall,Mud Brick Wall,BLOCKS,0.2
+mud_bricks,Mud Bricks,BLOCKS,0.2
+muddy_mangrove_roots,Muddy Mangrove Roots,BLOCKS,0.3
+mushroom_stem,Mushroom Stem,BLOCKS,0.3
+mushroom_stew,Mushroom Stew,FOOD,1.6
+music_disc_11,Music Disc,MISC,30
+music_disc_13,Music Disc,MISC,30
+music_disc_5,Music Disc,MISC,30
+music_disc_blocks,Music Disc,MISC,30
+music_disc_cat,Music Disc,MISC,30
+music_disc_chirp,Music Disc,MISC,30
+music_disc_creator,Music Disc,MISC,30
+music_disc_creator_music_box,Music Disc,MISC,30
+music_disc_far,Music Disc,MISC,30
+music_disc_lava_chicken,Music Disc,MISC,30
+music_disc_mall,Music Disc,MISC,30
+music_disc_mellohi,Music Disc,MISC,30
+music_disc_otherside,Music Disc,MISC,30
+music_disc_pigstep,Music Disc,MISC,30
+music_disc_precipice,Music Disc,MISC,30
+music_disc_relic,Music Disc,MISC,30
+music_disc_stal,Music Disc,MISC,30
+music_disc_strad,Music Disc,MISC,30
+music_disc_tears,Music Disc,MISC,30
+music_disc_wait,Music Disc,MISC,30
+music_disc_ward,Music Disc,MISC,30
+mutton,Raw Mutton,FOOD,0.8
+mycelium,Mycelium,BLOCKS,0.3
+name_tag,Name Tag,TOOLS,8
+nautilus_shell,Nautilus Shell,INGREDIENTS,1.5
+nether_brick,Nether Brick,INGREDIENTS,0.3
+nether_brick_fence,Nether Brick Fence,BLOCKS,0.3
+nether_brick_slab,Nether Brick Slab,BLOCKS,0.15
+nether_brick_stairs,Nether Brick Stairs,BLOCKS,0.3
+nether_brick_wall,Nether Brick Wall,BLOCKS,0.3
+nether_bricks,Nether Bricks,BLOCKS,0.3
+nether_gold_ore,Nether Gold Ore,BLOCKS,0.3
+nether_quartz_ore,Nether Quartz Ore,BLOCKS,0.3
+nether_sprouts,Nether Sprouts,BLOCKS,0.3
+nether_star,Nether Star,INGREDIENTS,500
+nether_wart,Nether Wart,INGREDIENTS,0.3
+nether_wart_block,Nether Wart Block,BLOCKS,2.7
+netherite_axe,Netherite Axe,TOOLS,1200
+netherite_block,Block of Netherite,BLOCKS,3600
+netherite_boots,Netherite Boots,COMBAT,1600
+netherite_chestplate,Netherite Chestplate,COMBAT,3200
+netherite_helmet,Netherite Helmet,COMBAT,2000
+netherite_hoe,Netherite Hoe,TOOLS,800
+netherite_horse_armor,Netherite Horse Armor,COMBAT,2800
+netherite_ingot,Netherite Ingot,INGREDIENTS,400
+netherite_leggings,Netherite Leggings,COMBAT,2800
+netherite_nautilus_armor,Netherite Nautilus Armor,COMBAT,2800
+netherite_pickaxe,Netherite Pickaxe,TOOLS,1200
+netherite_scrap,Netherite Scrap,INGREDIENTS,100
+netherite_shovel,Netherite Shovel,TOOLS,400
+netherite_spear,Netherite Spear,COMBAT,800
+netherite_sword,Netherite Sword,COMBAT,800
+netherite_upgrade_smithing_template,Netherite Upgrade,INGREDIENTS,300
+netherrack,Netherrack,BLOCKS,0.3
+note_block,Note Block,UTILITIES,4
+oak_boat,Oak Boat,MISC,1.5
+oak_button,Oak Button,MISC,0.1
+oak_chest_boat,Oak Boat with Chest,MISC,1.5
+oak_door,Oak Door,MISC,0.4
+oak_fence,Oak Fence,BLOCKS,0.3
+oak_fence_gate,Oak Fence Gate,MISC,0.5
+oak_hanging_sign,Oak Hanging Sign,MISC,0.5
+oak_leaves,Oak Leaves,BLOCKS,0.05
+oak_log,Oak Log,BLOCKS,1
+oak_planks,Oak Planks,BLOCKS,0.3
+oak_pressure_plate,Oak Pressure Plate,MISC,0.2
+oak_sapling,Oak Sapling,MISC,0.5
+oak_shelf,Oak Shelf,UTILITIES,1
+oak_sign,Oak Sign,MISC,0.5
+oak_slab,Oak Slab,BLOCKS,0.15
+oak_stairs,Oak Stairs,BLOCKS,0.4
+oak_trapdoor,Oak Trapdoor,MISC,0.6
+oak_wood,Oak Wood,BLOCKS,1
+observer,Observer,UTILITIES,4
+obsidian,Obsidian,BLOCKS,5
+ochre_froglight,Ochre Froglight,BLOCKS,0.3
+ominous_bottle,Ominous Bottle,POTIONS,6
+ominous_trial_key,Ominous Trial Key,MISC,1
+open_eyeblossom,Open Eyeblossom,BLOCKS,0.3
+orange_banner,Orange Banner,MISC,1
+orange_bed,Orange Bed,UTILITIES,8
+orange_bundle,Orange Bundle,TOOLS,16
+orange_candle,Orange Candle,MISC,1
+orange_carpet,Orange Carpet,BLOCKS,0.3
+orange_concrete,Orange Concrete,BLOCKS,0.5
+orange_concrete_powder,Orange Concrete Powder,BLOCKS,0.5
+orange_dye,Orange Dye,INGREDIENTS,1.5
+orange_glazed_terracotta,Orange Glazed Terracotta,BLOCKS,0.4
+orange_harness,Orange Harness,MISC,2
+orange_shulker_box,Orange Shulker Box,UTILITIES,8
+orange_stained_glass,Orange Stained Glass,BLOCKS,0.4
+orange_stained_glass_pane,Orange Stained Glass Pane,BLOCKS,0.4
+orange_terracotta,Orange Terracotta,BLOCKS,0.4
+orange_tulip,Orange Tulip,BLOCKS,0.3
+orange_wool,Orange Wool,BLOCKS,0.6
+oxeye_daisy,Oxeye Daisy,BLOCKS,0.3
+oxidized_chiseled_copper,Oxidized Chiseled Copper,BLOCKS,1.5
+oxidized_copper,Oxidized Copper,BLOCKS,1.5
+oxidized_copper_bars,Oxidized Copper Bars,BLOCKS,0.6
+oxidized_copper_bulb,Oxidized Copper Bulb,UTILITIES,1.5
+oxidized_copper_chain,Oxidized Copper Chain,BLOCKS,1.5
+oxidized_copper_chest,Oxidized Copper Chest,BLOCKS,1.5
+oxidized_copper_door,Oxidized Copper Door,MISC,3
+oxidized_copper_golem_statue,Oxidized Copper Golem Statue,MISC,1.5
+oxidized_copper_grate,Oxidized Copper Grate,BLOCKS,1.5
+oxidized_copper_lantern,Oxidized Copper Lantern,BLOCKS,1.5
+oxidized_copper_trapdoor,Oxidized Copper Trapdoor,MISC,4.5
+oxidized_cut_copper,Oxidized Cut Copper,BLOCKS,1.5
+oxidized_cut_copper_slab,Oxidized Cut Copper Slab,BLOCKS,0.75
+oxidized_cut_copper_stairs,Oxidized Cut Copper Stairs,BLOCKS,1.5
+oxidized_lightning_rod,Oxidized Lightning Rod,BLOCKS,0.3
+packed_ice,Packed Ice,BLOCKS,0.3
+packed_mud,Packed Mud,BLOCKS,0.2
+painting,Painting,MISC,1
+pale_hanging_moss,Pale Hanging Moss,BLOCKS,0.5
+pale_moss_block,Pale Moss Block,BLOCKS,1
+pale_moss_carpet,Pale Moss Carpet,BLOCKS,0.5
+pale_oak_boat,Pale Oak Boat,MISC,1.5
+pale_oak_button,Pale Oak Button,MISC,0.1
+pale_oak_chest_boat,Pale Oak Boat with Chest,MISC,1.5
+pale_oak_door,Pale Oak Door,MISC,0.4
+pale_oak_fence,Pale Oak Fence,BLOCKS,0.3
+pale_oak_fence_gate,Pale Oak Fence Gate,MISC,0.5
+pale_oak_hanging_sign,Pale Oak Hanging Sign,MISC,0.5
+pale_oak_leaves,Pale Oak Leaves,BLOCKS,0.05
+pale_oak_log,Pale Oak Log,BLOCKS,1
+pale_oak_planks,Pale Oak Planks,BLOCKS,0.3
+pale_oak_pressure_plate,Pale Oak Pressure Plate,MISC,0.2
+pale_oak_sapling,Pale Oak Sapling,MISC,0.5
+pale_oak_shelf,Pale Oak Shelf,UTILITIES,1
+pale_oak_sign,Pale Oak Sign,MISC,0.5
+pale_oak_slab,Pale Oak Slab,BLOCKS,0.15
+pale_oak_stairs,Pale Oak Stairs,BLOCKS,0.4
+pale_oak_trapdoor,Pale Oak Trapdoor,MISC,0.6
+pale_oak_wood,Pale Oak Wood,BLOCKS,1
+paper,Paper,INGREDIENTS,1.5
+pearlescent_froglight,Pearlescent Froglight,BLOCKS,0.3
+peony,Peony,BLOCKS,0.3
+phantom_membrane,Phantom Membrane,INGREDIENTS,1.5
+piglin_banner_pattern,Snout Banner Pattern,MISC,2
+piglin_head,Piglin Head,MISC,1
+pink_banner,Pink Banner,MISC,1
+pink_bed,Pink Bed,UTILITIES,8
+pink_bundle,Pink Bundle,TOOLS,16
+pink_candle,Pink Candle,MISC,1
+pink_carpet,Pink Carpet,BLOCKS,0.3
+pink_concrete,Pink Concrete,BLOCKS,0.5
+pink_concrete_powder,Pink Concrete Powder,BLOCKS,0.5
+pink_dye,Pink Dye,INGREDIENTS,1.5
+pink_glazed_terracotta,Pink Glazed Terracotta,BLOCKS,0.4
+pink_harness,Pink Harness,MISC,2
+pink_petals,Pink Petals,BLOCKS,0.3
+pink_shulker_box,Pink Shulker Box,UTILITIES,8
+pink_stained_glass,Pink Stained Glass,BLOCKS,0.4
+pink_stained_glass_pane,Pink Stained Glass Pane,BLOCKS,0.4
+pink_terracotta,Pink Terracotta,BLOCKS,0.4
+pink_tulip,Pink Tulip,BLOCKS,0.3
+pink_wool,Pink Wool,BLOCKS,0.6
+piston,Piston,UTILITIES,4
+pitcher_plant,Pitcher Plant,BLOCKS,0.3
+pitcher_pod,Pitcher Pod,MISC,1
+plenty_pottery_sherd,Plenty Pottery Sherd,INGREDIENTS,1.5
+podzol,Podzol,BLOCKS,0.3
+pointed_dripstone,Pointed Dripstone,BLOCKS,0.3
+poisonous_potato,Poisonous Potato,FOOD,0.8
+polished_andesite,Polished Andesite,BLOCKS,0.15
+polished_andesite_slab,Polished Andesite Slab,BLOCKS,0.05
+polished_andesite_stairs,Polished Andesite Stairs,BLOCKS,0.15
+polished_basalt,Polished Basalt,BLOCKS,0.2
+polished_blackstone,Polished Blackstone,BLOCKS,0.4
+polished_blackstone_brick_slab,Polished Blackstone Brick Slab,BLOCKS,0.2
+polished_blackstone_brick_stairs,Polished Blackstone Brick Stairs,BLOCKS,0.4
+polished_blackstone_brick_wall,Polished Blackstone Brick Wall,BLOCKS,0.4
+polished_blackstone_bricks,Polished Blackstone Bricks,BLOCKS,0.4
+polished_blackstone_button,Polished Blackstone Button,MISC,0.4
+polished_blackstone_pressure_plate,Polished Blackstone Pressure Plate,MISC,0.8
+polished_blackstone_slab,Polished Blackstone Slab,BLOCKS,0.2
+polished_blackstone_stairs,Polished Blackstone Stairs,BLOCKS,0.4
+polished_blackstone_wall,Polished Blackstone Wall,BLOCKS,0.4
+polished_deepslate,Polished Deepslate,BLOCKS,0.3
+polished_deepslate_slab,Polished Deepslate Slab,BLOCKS,0.15
+polished_deepslate_stairs,Polished Deepslate Stairs,BLOCKS,0.3
+polished_deepslate_wall,Polished Deepslate Wall,BLOCKS,0.3
+polished_diorite,Polished Diorite,BLOCKS,0.15
+polished_diorite_slab,Polished Diorite Slab,BLOCKS,0.05
+polished_diorite_stairs,Polished Diorite Stairs,BLOCKS,0.15
+polished_granite,Polished Granite,BLOCKS,0.15
+polished_granite_slab,Polished Granite Slab,BLOCKS,0.05
+polished_granite_stairs,Polished Granite Stairs,BLOCKS,0.15
+polished_tuff,Polished Tuff,BLOCKS,0.25
+polished_tuff_slab,Polished Tuff Slab,BLOCKS,0.1
+polished_tuff_stairs,Polished Tuff Stairs,BLOCKS,0.25
+polished_tuff_wall,Polished Tuff Wall,BLOCKS,0.25
+popped_chorus_fruit,Popped Chorus Fruit,MISC,1
+poppy,Poppy,BLOCKS,0.3
+porkchop,Raw Porkchop,FOOD,0.8
+potato,Potato,FOOD,0.8
+potion,Potion,POTIONS,12
+powder_snow_bucket,Powder Snow Bucket,TOOLS,16
+powered_rail,Powered Rail,UTILITIES,4
+prismarine,Prismarine,BLOCKS,2
+prismarine_brick_slab,Prismarine Brick Slab,BLOCKS,1
+prismarine_brick_stairs,Prismarine Brick Stairs,BLOCKS,2
+prismarine_bricks,Prismarine Bricks,BLOCKS,2
+prismarine_crystals,Prismarine Crystals,INGREDIENTS,2
+prismarine_shard,Prismarine Shard,INGREDIENTS,2
+prismarine_slab,Prismarine Slab,BLOCKS,1
+prismarine_stairs,Prismarine Stairs,BLOCKS,2
+prismarine_wall,Prismarine Wall,BLOCKS,2
+prize_pottery_sherd,Prize Pottery Sherd,INGREDIENTS,1.5
+pufferfish,Pufferfish,FOOD,0.8
+pufferfish_bucket,Bucket of Pufferfish,TOOLS,16
+pumpkin,Pumpkin,BLOCKS,0.3
+pumpkin_pie,Pumpkin Pie,FOOD,0.8
+pumpkin_seeds,Pumpkin Seeds,MISC,1
+purple_banner,Purple Banner,MISC,1
+purple_bed,Purple Bed,UTILITIES,8
+purple_bundle,Purple Bundle,TOOLS,16
+purple_candle,Purple Candle,MISC,1
+purple_carpet,Purple Carpet,BLOCKS,0.3
+purple_concrete,Purple Concrete,BLOCKS,0.5
+purple_concrete_powder,Purple Concrete Powder,BLOCKS,0.5
+purple_dye,Purple Dye,INGREDIENTS,1.5
+purple_glazed_terracotta,Purple Glazed Terracotta,BLOCKS,0.4
+purple_harness,Purple Harness,MISC,2
+purple_shulker_box,Purple Shulker Box,UTILITIES,8
+purple_stained_glass,Purple Stained Glass,BLOCKS,0.4
+purple_stained_glass_pane,Purple Stained Glass Pane,BLOCKS,0.4
+purple_terracotta,Purple Terracotta,BLOCKS,0.4
+purple_wool,Purple Wool,BLOCKS,0.6
+purpur_block,Purpur Block,BLOCKS,14
+purpur_pillar,Purpur Pillar,BLOCKS,1.5
+purpur_slab,Purpur Slab,BLOCKS,0.75
+purpur_stairs,Purpur Stairs,BLOCKS,1.5
+quartz,Nether Quartz,INGREDIENTS,2
+quartz_block,Block of Quartz,BLOCKS,18
+quartz_bricks,Quartz Bricks,BLOCKS,2
+quartz_pillar,Quartz Pillar,BLOCKS,2
+quartz_slab,Quartz Slab,BLOCKS,1
+quartz_stairs,Quartz Stairs,BLOCKS,2
+rabbit,Raw Rabbit,FOOD,0.8
+rabbit_foot,Rabbit's Foot,INGREDIENTS,1.5
+rabbit_hide,Rabbit Hide,INGREDIENTS,1.5
+rabbit_stew,Rabbit Stew,FOOD,1.6
+rail,Rail,UTILITIES,4
+raiser_armor_trim_smithing_template,Raiser Armor Trim,INGREDIENTS,50
+raw_copper,Raw Copper,INGREDIENTS,1.5
+raw_copper_block,Block of Raw Copper,BLOCKS,14
+raw_gold,Raw Gold,INGREDIENTS,12
+raw_gold_block,Block of Raw Gold,BLOCKS,110
+raw_iron,Raw Iron,INGREDIENTS,6
+raw_iron_block,Block of Raw Iron,BLOCKS,54
+recovery_compass,Recovery Compass,TOOLS,8
+red_banner,Red Banner,MISC,1
+red_bed,Red Bed,UTILITIES,8
+red_bundle,Red Bundle,TOOLS,16
+red_candle,Red Candle,MISC,1
+red_carpet,Red Carpet,BLOCKS,0.3
+red_concrete,Red Concrete,BLOCKS,0.5
+red_concrete_powder,Red Concrete Powder,BLOCKS,0.5
+red_dye,Red Dye,INGREDIENTS,1.5
+red_glazed_terracotta,Red Glazed Terracotta,BLOCKS,0.4
+red_harness,Red Harness,MISC,2
+red_mushroom,Red Mushroom,BLOCKS,0.3
+red_mushroom_block,Red Mushroom Block,BLOCKS,0.3
+red_nether_brick_slab,Red Nether Brick Slab,BLOCKS,0.15
+red_nether_brick_stairs,Red Nether Brick Stairs,BLOCKS,0.3
+red_nether_brick_wall,Red Nether Brick Wall,BLOCKS,0.3
+red_nether_bricks,Red Nether Bricks,BLOCKS,0.3
+red_sand,Red Sand,BLOCKS,0.3
+red_sandstone,Red Sandstone,BLOCKS,0.3
+red_sandstone_slab,Red Sandstone Slab,BLOCKS,0.15
+red_sandstone_stairs,Red Sandstone Stairs,BLOCKS,0.3
+red_sandstone_wall,Red Sandstone Wall,BLOCKS,0.3
+red_shulker_box,Red Shulker Box,UTILITIES,8
+red_stained_glass,Red Stained Glass,BLOCKS,0.4
+red_stained_glass_pane,Red Stained Glass Pane,BLOCKS,0.4
+red_terracotta,Red Terracotta,BLOCKS,0.4
+red_tulip,Red Tulip,BLOCKS,0.3
+red_wool,Red Wool,BLOCKS,0.6
+redstone,Redstone Dust,INGREDIENTS,1
+redstone_block,Block of Redstone,BLOCKS,9
+redstone_lamp,Redstone Lamp,UTILITIES,1
+redstone_ore,Redstone Ore,BLOCKS,1
+redstone_torch,Redstone Torch,UTILITIES,1
+repeater,Redstone Repeater,UTILITIES,4
+resin_block,Block of Resin,BLOCKS,9
+resin_brick,Resin Brick,INGREDIENTS,1
+resin_brick_slab,Resin Brick Slab,BLOCKS,0.5
+resin_brick_stairs,Resin Brick Stairs,BLOCKS,1
+resin_brick_wall,Resin Brick Wall,BLOCKS,1
+resin_bricks,Resin Bricks,BLOCKS,1
+resin_clump,Resin Clump,INGREDIENTS,1
+respawn_anchor,Respawn Anchor,UTILITIES,4
+rib_armor_trim_smithing_template,Rib Armor Trim,INGREDIENTS,50
+rooted_dirt,Rooted Dirt,BLOCKS,0.3
+rose_bush,Rose Bush,BLOCKS,0.3
+rotten_flesh,Rotten Flesh,FOOD,0.8
+saddle,Saddle,TOOLS,16
+salmon,Raw Salmon,FOOD,0.8
+salmon_bucket,Bucket of Salmon,TOOLS,16
+sand,Sand,BLOCKS,0.3
+sandstone,Sandstone,BLOCKS,0.3
+sandstone_slab,Sandstone Slab,BLOCKS,0.15
+sandstone_stairs,Sandstone Stairs,BLOCKS,0.3
+sandstone_wall,Sandstone Wall,BLOCKS,0.3
+scaffolding,Scaffolding,UTILITIES,4
+scrape_pottery_sherd,Scrape Pottery Sherd,INGREDIENTS,1.5
+sculk,Sculk,BLOCKS,0.3
+sculk_catalyst,Sculk Catalyst,BLOCKS,0.3
+sculk_sensor,Sculk Sensor,UTILITIES,4
+sculk_shrieker,Sculk Shrieker,BLOCKS,0.3
+sculk_vein,Sculk Vein,BLOCKS,0.3
+sea_lantern,Sea Lantern,BLOCKS,0.3
+sea_pickle,Sea Pickle,BLOCKS,0.3
+seagrass,Seagrass,BLOCKS,0.3
+sentry_armor_trim_smithing_template,Sentry Armor Trim,INGREDIENTS,50
+shaper_armor_trim_smithing_template,Shaper Armor Trim,INGREDIENTS,50
+sheaf_pottery_sherd,Sheaf Pottery Sherd,INGREDIENTS,1.5
+shears,Shears,TOOLS,16
+shelter_pottery_sherd,Shelter Pottery Sherd,INGREDIENTS,1.5
+shield,Shield,COMBAT,20
+short_dry_grass,Short Dry Grass,BLOCKS,0.3
+short_grass,Short Grass,BLOCKS,0.3
+shroomlight,Shroomlight,BLOCKS,0.3
+shulker_box,Shulker Box,UTILITIES,70
+shulker_shell,Shulker Shell,INGREDIENTS,30
+silence_armor_trim_smithing_template,Silence Armor Trim,INGREDIENTS,50
+skeleton_skull,Skeleton Skull,MISC,1
+skull_banner_pattern,Skull Charge Banner Pattern,MISC,2
+skull_pottery_sherd,Skull Pottery Sherd,INGREDIENTS,1.5
+slime_ball,Slimeball,INGREDIENTS,1.5
+slime_block,Slime Block,BLOCKS,0.3
+small_amethyst_bud,Small Amethyst Bud,BLOCKS,3
+small_dripleaf,Small Dripleaf,BLOCKS,0.3
+smithing_table,Smithing Table,UTILITIES,4
+smoker,Smoker,UTILITIES,4
+smooth_basalt,Smooth Basalt,BLOCKS,0.2
+smooth_quartz,Smooth Quartz Block,BLOCKS,2
+smooth_quartz_slab,Smooth Quartz Slab,BLOCKS,1
+smooth_quartz_stairs,Smooth Quartz Stairs,BLOCKS,2
+smooth_red_sandstone,Smooth Red Sandstone,BLOCKS,0.3
+smooth_red_sandstone_slab,Smooth Red Sandstone Slab,BLOCKS,0.15
+smooth_red_sandstone_stairs,Smooth Red Sandstone Stairs,BLOCKS,0.3
+smooth_sandstone,Smooth Sandstone,BLOCKS,0.3
+smooth_sandstone_slab,Smooth Sandstone Slab,BLOCKS,0.15
+smooth_sandstone_stairs,Smooth Sandstone Stairs,BLOCKS,0.3
+smooth_stone,Smooth Stone,BLOCKS,0.2
+smooth_stone_slab,Smooth Stone Slab,BLOCKS,0.1
+sniffer_egg,Sniffer Egg,BLOCKS,0.3
+snort_pottery_sherd,Snort Pottery Sherd,INGREDIENTS,1.5
+snout_armor_trim_smithing_template,Snout Armor Trim,INGREDIENTS,50
+snow,Snow,BLOCKS,0.3
+snow_block,Snow Block,BLOCKS,0.3
+snowball,Snowball,MISC,1
+soul_campfire,Soul Campfire,UTILITIES,4
+soul_lantern,Soul Lantern,UTILITIES,4
+soul_sand,Soul Sand,BLOCKS,0.3
+soul_soil,Soul Soil,BLOCKS,0.3
+soul_torch,Soul Torch,UTILITIES,4
+spectral_arrow,Spectral Arrow,COMBAT,10
+spider_eye,Spider Eye,FOOD,0.8
+spire_armor_trim_smithing_template,Spire Armor Trim,INGREDIENTS,50
+splash_potion,Splash Potion,POTIONS,12
+sponge,Sponge,BLOCKS,15
+spore_blossom,Spore Blossom,BLOCKS,0.3
+spruce_boat,Spruce Boat,MISC,1.5
+spruce_button,Spruce Button,MISC,0.1
+spruce_chest_boat,Spruce Boat with Chest,MISC,1.5
+spruce_door,Spruce Door,MISC,0.4
+spruce_fence,Spruce Fence,BLOCKS,0.3
+spruce_fence_gate,Spruce Fence Gate,MISC,0.5
+spruce_hanging_sign,Spruce Hanging Sign,MISC,0.5
+spruce_leaves,Spruce Leaves,BLOCKS,0.05
+spruce_log,Spruce Log,BLOCKS,1
+spruce_planks,Spruce Planks,BLOCKS,0.3
+spruce_pressure_plate,Spruce Pressure Plate,MISC,0.2
+spruce_sapling,Spruce Sapling,MISC,0.5
+spruce_shelf,Spruce Shelf,UTILITIES,1
+spruce_sign,Spruce Sign,MISC,0.5
+spruce_slab,Spruce Slab,BLOCKS,0.15
+spruce_stairs,Spruce Stairs,BLOCKS,0.4
+spruce_trapdoor,Spruce Trapdoor,MISC,0.6
+spruce_wood,Spruce Wood,BLOCKS,1
+spyglass,Spyglass,TOOLS,16
+stick,Stick,INGREDIENTS,1.5
+sticky_piston,Sticky Piston,UTILITIES,4
+stone,Stone,BLOCKS,0.2
+stone_axe,Stone Axe,TOOLS,0.6
+stone_brick_slab,Stone Brick Slab,BLOCKS,0.1
+stone_brick_stairs,Stone Brick Stairs,BLOCKS,0.2
+stone_brick_wall,Stone Brick Wall,BLOCKS,0.2
+stone_bricks,Stone Bricks,BLOCKS,0.2
+stone_button,Stone Button,MISC,0.2
+stone_hoe,Stone Hoe,TOOLS,0.4
+stone_pickaxe,Stone Pickaxe,TOOLS,0.6
+stone_pressure_plate,Stone Pressure Plate,MISC,0.4
+stone_shovel,Stone Shovel,TOOLS,0.2
+stone_slab,Stone Slab,BLOCKS,0.1
+stone_spear,Stone Spear,COMBAT,0.4
+stone_stairs,Stone Stairs,BLOCKS,0.2
+stone_sword,Stone Sword,COMBAT,0.4
+stonecutter,Stonecutter,UTILITIES,4
+string,String,INGREDIENTS,1.5
+stripped_acacia_log,Stripped Acacia Log,BLOCKS,0.3
+stripped_acacia_wood,Stripped Acacia Wood,BLOCKS,0.3
+stripped_bamboo_block,Block of Stripped Bamboo,BLOCKS,0.3
+stripped_birch_log,Stripped Birch Log,BLOCKS,0.3
+stripped_birch_wood,Stripped Birch Wood,BLOCKS,0.3
+stripped_cherry_log,Stripped Cherry Log,BLOCKS,0.3
+stripped_cherry_wood,Stripped Cherry Wood,BLOCKS,0.3
+stripped_crimson_hyphae,Stripped Crimson Hyphae,BLOCKS,0.3
+stripped_crimson_stem,Stripped Crimson Stem,BLOCKS,0.3
+stripped_dark_oak_log,Stripped Dark Oak Log,BLOCKS,0.3
+stripped_dark_oak_wood,Stripped Dark Oak Wood,BLOCKS,0.3
+stripped_jungle_log,Stripped Jungle Log,BLOCKS,0.3
+stripped_jungle_wood,Stripped Jungle Wood,BLOCKS,0.3
+stripped_mangrove_log,Stripped Mangrove Log,BLOCKS,0.3
+stripped_mangrove_wood,Stripped Mangrove Wood,BLOCKS,0.3
+stripped_oak_log,Stripped Oak Log,BLOCKS,0.3
+stripped_oak_wood,Stripped Oak Wood,BLOCKS,0.3
+stripped_pale_oak_log,Stripped Pale Oak Log,BLOCKS,0.3
+stripped_pale_oak_wood,Stripped Pale Oak Wood,BLOCKS,0.3
+stripped_spruce_log,Stripped Spruce Log,BLOCKS,0.3
+stripped_spruce_wood,Stripped Spruce Wood,BLOCKS,0.3
+stripped_warped_hyphae,Stripped Warped Hyphae,BLOCKS,0.3
+stripped_warped_stem,Stripped Warped Stem,BLOCKS,0.3
+sugar,Sugar,INGREDIENTS,1.5
+sugar_cane,Sugar Cane,BLOCKS,0.3
+sunflower,Sunflower,BLOCKS,0.3
+suspicious_gravel,Suspicious Gravel,BLOCKS,0.3
+suspicious_sand,Suspicious Sand,BLOCKS,0.3
+suspicious_stew,Suspicious Stew,FOOD,1.6
+sweet_berries,Sweet Berries,FOOD,0.8
+tadpole_bucket,Bucket of Tadpole,TOOLS,16
+tall_dry_grass,Tall Dry Grass,BLOCKS,0.3
+tall_grass,Tall Grass,BLOCKS,0.3
+target,Target,UTILITIES,4
+terracotta,Terracotta,BLOCKS,0.4
+tide_armor_trim_smithing_template,Tide Armor Trim,INGREDIENTS,50
+tinted_glass,Tinted Glass,BLOCKS,0.4
+tipped_arrow,Tipped Arrow,COMBAT,10
+tnt,TNT,UTILITIES,4
+tnt_minecart,Minecart with TNT,UTILITIES,8
+torch,Torch,UTILITIES,4
+torchflower,Torchflower,BLOCKS,0.3
+torchflower_seeds,Torchflower Seeds,MISC,1
+totem_of_undying,Totem of Undying,COMBAT,150
+trapped_chest,Trapped Chest,UTILITIES,4
+trial_key,Trial Key,MISC,1
+trident,Trident,COMBAT,250
+tripwire_hook,Tripwire Hook,UTILITIES,4
+tropical_fish,Tropical Fish,FOOD,0.8
+tropical_fish_bucket,Bucket of Tropical Fish,TOOLS,16
+tube_coral,Tube Coral,BLOCKS,0.3
+tube_coral_block,Tube Coral Block,BLOCKS,0.3
+tube_coral_fan,Tube Coral Fan,BLOCKS,0.3
+tuff,Tuff,BLOCKS,0.25
+tuff_brick_slab,Tuff Brick Slab,BLOCKS,0.1
+tuff_brick_stairs,Tuff Brick Stairs,BLOCKS,0.25
+tuff_brick_wall,Tuff Brick Wall,BLOCKS,0.25
+tuff_bricks,Tuff Bricks,BLOCKS,0.25
+tuff_slab,Tuff Slab,BLOCKS,0.1
+tuff_stairs,Tuff Stairs,BLOCKS,0.25
+tuff_wall,Tuff Wall,BLOCKS,0.25
+turtle_egg,Turtle Egg,BLOCKS,0.3
+turtle_helmet,Turtle Shell,COMBAT,20
+turtle_scute,Turtle Scute,INGREDIENTS,1.5
+twisting_vines,Twisting Vines,BLOCKS,0.3
+verdant_froglight,Verdant Froglight,BLOCKS,0.3
+vex_armor_trim_smithing_template,Vex Armor Trim,INGREDIENTS,50
+vine,Vines,BLOCKS,0.3
+ward_armor_trim_smithing_template,Ward Armor Trim,INGREDIENTS,50
+warped_button,Warped Button,MISC,0.2
+warped_door,Warped Door,MISC,0.8
+warped_fence,Warped Fence,BLOCKS,0.6
+warped_fence_gate,Warped Fence Gate,MISC,1
+warped_fungus,Warped Fungus,BLOCKS,1
+warped_fungus_on_a_stick,Warped Fungus on a Stick,TOOLS,1
+warped_hanging_sign,Warped Hanging Sign,MISC,1
+warped_hyphae,Warped Hyphae,BLOCKS,2
+warped_nylium,Warped Nylium,BLOCKS,1
+warped_planks,Warped Planks,BLOCKS,0.6
+warped_pressure_plate,Warped Pressure Plate,MISC,0.4
+warped_roots,Warped Roots,BLOCKS,1
+warped_shelf,Warped Shelf,UTILITIES,2
+warped_sign,Warped Sign,MISC,1
+warped_slab,Warped Slab,BLOCKS,0.3
+warped_stairs,Warped Stairs,BLOCKS,0.8
+warped_stem,Warped Stem,BLOCKS,2
+warped_trapdoor,Warped Trapdoor,MISC,1.2
+warped_wart_block,Warped Wart Block,BLOCKS,2
+water_bucket,Water Bucket,TOOLS,16
+waxed_chiseled_copper,Waxed Chiseled Copper,BLOCKS,1.5
+waxed_copper_bars,Waxed Copper Bars,BLOCKS,0.6
+waxed_copper_block,Waxed Block of Copper,BLOCKS,14
+waxed_copper_bulb,Waxed Copper Bulb,UTILITIES,1.5
+waxed_copper_chain,Waxed Copper Chain,BLOCKS,1.5
+waxed_copper_chest,Waxed Copper Chest,BLOCKS,1.5
+waxed_copper_door,Waxed Copper Door,MISC,3
+waxed_copper_golem_statue,Waxed Copper Golem Statue,MISC,1.5
+waxed_copper_grate,Waxed Copper Grate,BLOCKS,1.5
+waxed_copper_lantern,Waxed Copper Lantern,BLOCKS,1.5
+waxed_copper_trapdoor,Waxed Copper Trapdoor,MISC,4.5
+waxed_cut_copper,Waxed Cut Copper,BLOCKS,1.5
+waxed_cut_copper_slab,Waxed Cut Copper Slab,BLOCKS,0.75
+waxed_cut_copper_stairs,Waxed Cut Copper Stairs,BLOCKS,1.5
+waxed_exposed_chiseled_copper,Waxed Exposed Chiseled Copper,BLOCKS,1.5
+waxed_exposed_copper,Waxed Exposed Copper,BLOCKS,1.5
+waxed_exposed_copper_bars,Waxed Exposed Copper Bars,BLOCKS,0.6
+waxed_exposed_copper_bulb,Waxed Exposed Copper Bulb,UTILITIES,1.5
+waxed_exposed_copper_chain,Waxed Exposed Copper Chain,BLOCKS,1.5
+waxed_exposed_copper_chest,Waxed Exposed Copper Chest,BLOCKS,1.5
+waxed_exposed_copper_door,Waxed Exposed Copper Door,MISC,3
+waxed_exposed_copper_golem_statue,Waxed Exposed Copper Golem Statue,MISC,1.5
+waxed_exposed_copper_grate,Waxed Exposed Copper Grate,BLOCKS,1.5
+waxed_exposed_copper_lantern,Waxed Exposed Copper Lantern,BLOCKS,1.5
+waxed_exposed_copper_trapdoor,Waxed Exposed Copper Trapdoor,MISC,4.5
+waxed_exposed_cut_copper,Waxed Exposed Cut Copper,BLOCKS,1.5
+waxed_exposed_cut_copper_slab,Waxed Exposed Cut Copper Slab,BLOCKS,0.75
+waxed_exposed_cut_copper_stairs,Waxed Exposed Cut Copper Stairs,BLOCKS,1.5
+waxed_exposed_lightning_rod,Waxed Exposed Lightning Rod,BLOCKS,0.3
+waxed_lightning_rod,Waxed Lightning Rod,BLOCKS,0.3
+waxed_oxidized_chiseled_copper,Waxed Oxidized Chiseled Copper,BLOCKS,1.5
+waxed_oxidized_copper,Waxed Oxidized Copper,BLOCKS,1.5
+waxed_oxidized_copper_bars,Waxed Oxidized Copper Bars,BLOCKS,0.6
+waxed_oxidized_copper_bulb,Waxed Oxidized Copper Bulb,UTILITIES,1.5
+waxed_oxidized_copper_chain,Waxed Oxidized Copper Chain,BLOCKS,1.5
+waxed_oxidized_copper_chest,Waxed Oxidized Copper Chest,BLOCKS,1.5
+waxed_oxidized_copper_door,Waxed Oxidized Copper Door,MISC,3
+waxed_oxidized_copper_golem_statue,Waxed Oxidized Copper Golem Statue,MISC,1.5
+waxed_oxidized_copper_grate,Waxed Oxidized Copper Grate,BLOCKS,1.5
+waxed_oxidized_copper_lantern,Waxed Oxidized Copper Lantern,BLOCKS,1.5
+waxed_oxidized_copper_trapdoor,Waxed Oxidized Copper Trapdoor,MISC,4.5
+waxed_oxidized_cut_copper,Waxed Oxidized Cut Copper,BLOCKS,1.5
+waxed_oxidized_cut_copper_slab,Waxed Oxidized Cut Copper Slab,BLOCKS,0.75
+waxed_oxidized_cut_copper_stairs,Waxed Oxidized Cut Copper Stairs,BLOCKS,1.5
+waxed_oxidized_lightning_rod,Waxed Oxidized Lightning Rod,BLOCKS,0.3
+waxed_weathered_chiseled_copper,Waxed Weathered Chiseled Copper,BLOCKS,1.5
+waxed_weathered_copper,Waxed Weathered Copper,BLOCKS,1.5
+waxed_weathered_copper_bars,Waxed Weathered Copper Bars,BLOCKS,0.6
+waxed_weathered_copper_bulb,Waxed Weathered Copper Bulb,UTILITIES,1.5
+waxed_weathered_copper_chain,Waxed Weathered Copper Chain,BLOCKS,1.5
+waxed_weathered_copper_chest,Waxed Weathered Copper Chest,BLOCKS,1.5
+waxed_weathered_copper_door,Waxed Weathered Copper Door,MISC,3
+waxed_weathered_copper_golem_statue,Waxed Weathered Copper Golem Statue,MISC,1.5
+waxed_weathered_copper_grate,Waxed Weathered Copper Grate,BLOCKS,1.5
+waxed_weathered_copper_lantern,Waxed Weathered Copper Lantern,BLOCKS,1.5
+waxed_weathered_copper_trapdoor,Waxed Weathered Copper Trapdoor,MISC,4.5
+waxed_weathered_cut_copper,Waxed Weathered Cut Copper,BLOCKS,1.5
+waxed_weathered_cut_copper_slab,Waxed Weathered Cut Copper Slab,BLOCKS,0.75
+waxed_weathered_cut_copper_stairs,Waxed Weathered Cut Copper Stairs,BLOCKS,1.5
+waxed_weathered_lightning_rod,Waxed Weathered Lightning Rod,BLOCKS,0.3
+wayfinder_armor_trim_smithing_template,Wayfinder Armor Trim,INGREDIENTS,50
+weathered_chiseled_copper,Weathered Chiseled Copper,BLOCKS,1.5
+weathered_copper,Weathered Copper,BLOCKS,1.5
+weathered_copper_bars,Weathered Copper Bars,BLOCKS,0.6
+weathered_copper_bulb,Weathered Copper Bulb,UTILITIES,1.5
+weathered_copper_chain,Weathered Copper Chain,BLOCKS,1.5
+weathered_copper_chest,Weathered Copper Chest,BLOCKS,1.5
+weathered_copper_door,Weathered Copper Door,MISC,3
+weathered_copper_golem_statue,Weathered Copper Golem Statue,MISC,1.5
+weathered_copper_grate,Weathered Copper Grate,BLOCKS,1.5
+weathered_copper_lantern,Weathered Copper Lantern,BLOCKS,1.5
+weathered_copper_trapdoor,Weathered Copper Trapdoor,MISC,4.5
+weathered_cut_copper,Weathered Cut Copper,BLOCKS,1.5
+weathered_cut_copper_slab,Weathered Cut Copper Slab,BLOCKS,0.75
+weathered_cut_copper_stairs,Weathered Cut Copper Stairs,BLOCKS,1.5
+weathered_lightning_rod,Weathered Lightning Rod,BLOCKS,0.3
+weeping_vines,Weeping Vines,BLOCKS,0.3
+wet_sponge,Wet Sponge,BLOCKS,15
+wheat,Wheat,INGREDIENTS,1.5
+wheat_seeds,Wheat Seeds,MISC,1
+white_banner,White Banner,MISC,1
+white_bed,White Bed,UTILITIES,8
+white_bundle,White Bundle,TOOLS,16
+white_candle,White Candle,MISC,1
+white_carpet,White Carpet,BLOCKS,0.3
+white_concrete,White Concrete,BLOCKS,0.5
+white_concrete_powder,White Concrete Powder,BLOCKS,0.5
+white_dye,White Dye,INGREDIENTS,1.5
+white_glazed_terracotta,White Glazed Terracotta,BLOCKS,0.4
+white_harness,White Harness,MISC,2
+white_shulker_box,White Shulker Box,UTILITIES,8
+white_stained_glass,White Stained Glass,BLOCKS,0.4
+white_stained_glass_pane,White Stained Glass Pane,BLOCKS,0.4
+white_terracotta,White Terracotta,BLOCKS,0.4
+white_tulip,White Tulip,BLOCKS,0.3
+white_wool,White Wool,BLOCKS,0.6
+wild_armor_trim_smithing_template,Wild Armor Trim,INGREDIENTS,50
+wildflowers,Wildflowers,BLOCKS,0.3
+wind_charge,Wind Charge,COMBAT,10
+wither_rose,Wither Rose,BLOCKS,0.3
+wither_skeleton_skull,Wither Skeleton Skull,MISC,1
+wolf_armor,Wolf Armor,COMBAT,20
+wooden_axe,Wooden Axe,TOOLS,1.5
+wooden_hoe,Wooden Hoe,TOOLS,1
+wooden_pickaxe,Wooden Pickaxe,TOOLS,1.5
+wooden_shovel,Wooden Shovel,TOOLS,0.5
+wooden_spear,Wooden Spear,COMBAT,1
+wooden_sword,Wooden Sword,COMBAT,1
+writable_book,Book and Quill,BOOKS,8
+yellow_banner,Yellow Banner,MISC,1
+yellow_bed,Yellow Bed,UTILITIES,8
+yellow_bundle,Yellow Bundle,TOOLS,16
+yellow_candle,Yellow Candle,MISC,1
+yellow_carpet,Yellow Carpet,BLOCKS,0.3
+yellow_concrete,Yellow Concrete,BLOCKS,0.5
+yellow_concrete_powder,Yellow Concrete Powder,BLOCKS,0.5
+yellow_dye,Yellow Dye,INGREDIENTS,1.5
+yellow_glazed_terracotta,Yellow Glazed Terracotta,BLOCKS,0.4
+yellow_harness,Yellow Harness,MISC,2
+yellow_shulker_box,Yellow Shulker Box,UTILITIES,8
+yellow_stained_glass,Yellow Stained Glass,BLOCKS,0.4
+yellow_stained_glass_pane,Yellow Stained Glass Pane,BLOCKS,0.4
+yellow_terracotta,Yellow Terracotta,BLOCKS,0.4
+yellow_wool,Yellow Wool,BLOCKS,0.6
+zombie_head,Zombie Head,MISC,1
